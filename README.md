@@ -14,6 +14,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>            
 </div>
 
+## Connect with me
+
+<a href = "mailto:marilsondev@hotmail.com">
+  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 
           
 
