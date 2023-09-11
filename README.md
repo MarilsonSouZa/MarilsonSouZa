@@ -1,22 +1,19 @@
-# Olá, me chamo MarilsonSouZa! 
-## Bem vindo ao meu perfil GitHub 👋
+# Hi There, my name is Marilson! 
+## Welcome to my GitHub profile 👋
 
-- 🔭 Atualmente estou trabalhando em uma empresa de automação comercial...
-- 🌱 Atualmente estou aprendendo Python, Web Crawler, Machine Learning...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+- 💻 Software Engineer - Focused on Python.
+- 🌱 I'm currently learning Python, Web Crawler, Machine Learning...
+- 😄 Pronomes: Ele/Dele
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
-                        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>            
 </div>
+
 
           
 
