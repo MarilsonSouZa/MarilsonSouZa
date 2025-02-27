@@ -1,7 +1,7 @@
 # Hi There, my name is Marilson! 
 ## Welcome to my GitHub profile 👋
 
-- 💻 Software Engineer - Focused on Python.
+- 💻 Software Engineer
 - 🌱 I'm currently learning Python...
 - 😄 Pronomes: Ele/Dele
 
