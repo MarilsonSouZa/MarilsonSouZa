@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile 👋
 
 - 💻 Software Engineer - Focused on Python.
-- 🌱 I'm currently learning Python, Web Crawler, Machine Learning...
+- 🌱 I'm currently learning Python...
 - 😄 Pronomes: Ele/Dele
 
 ## Tools and Technologies
